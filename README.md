@@ -22,3 +22,12 @@ I'm a **GIS Analyst** with expertise in GIS and remote sensing, and some experie
 ---
 
 Feel free to connect or reach out if you share similar interests or want to collaborate on GIS or mapping projects!
+## 🛠️ Skills & Technologies
+
+![GIS](https://img.shields.io/badge/GIS-Expert-green)
+![Remote Sensing](https://img.shields.io/badge/Remote%20Sensing-Intermediate-blue)
+![React](https://img.shields.io/badge/React-Developer-61dafb?logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-f7df1e?logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3.x-yellow?logo=python&logoColor=black)
+![QGIS](https://img.shields.io/badge/QGIS-User-589632?logo=qgis&logoColor=white)
+![ArcGIS](https://img.shields.io/badge/ArcGIS-User-5c76f5?logo=arcgis&logoColor=white)
